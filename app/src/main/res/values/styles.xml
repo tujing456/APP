@@ -17,7 +17,7 @@
         <item name="android:paddingTop">3dp</item>
         <item name="android:textSize">14sp</item>
         <item name="android:gravity">center</item>
-        <item name="android:textColor">@drawable/ic_exercise_bg_1</item>
+<!--        <item name="android:textColor">@drawable/ic_exercise_bg_1</item>-->
 
 
 
